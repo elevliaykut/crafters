@@ -149,3 +149,8 @@ export const BoldText = styled.span`
   font-size: 18px;
   font-weight: bold;
 `
+
+export const DescriptionLine = styled.div`
+   font-size: 18px;
+   line-height: 2em;    
+`

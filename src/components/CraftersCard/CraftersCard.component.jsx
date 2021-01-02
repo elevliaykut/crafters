@@ -2,7 +2,8 @@ import React from 'react'
 import {
     SectionTitle,
     SectionDate,
-    Description
+    Description,
+    DescriptionLine
 } from '../SectionCard/SectionCard.styles';
 import {
     MainContainer,
@@ -22,10 +23,14 @@ const CraftersCardComponent = () => {
             <MainContainer>
                 <DescriptionContainer>
                     <Description>
-                        The time it takes to write and implement code is my
-                        greatest passion. In my application development journey,
-                        I move forward by researching and using current
-                        technologies in the applications I develop.
+                        <DescriptionLine>Hi! I'm Aykut.</DescriptionLine>
+                        <DescriptionLine>
+                            I'm Full Stack Developer at KAMION. I've been concentrate development of back end and front end
+                            for 2 years in professional life. I'am always excited to learn new technologies and write better code.
+                        </DescriptionLine>
+                        <DescriptionLine>
+                            It can be my biggest passion to produce something and bring a product to life.
+                        </DescriptionLine>
                     </Description>
                 </DescriptionContainer>
                 <ImageContainer>

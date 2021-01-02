@@ -6,13 +6,13 @@ export const MainContainer = styled.div`
 `
 
 export const DescriptionContainer = styled.div`
-    width: 65%;
+    width: 60%;
 `
 
 export const ImageContainer = styled.div`
-    width: 35%;
-    padding: 30px;
-    margin-top: -20px;
+    width: 40%;
+    padding: 5px;
+    margin-top: 0px;
 `
 
 export const CrafterName = styled.div`

@@ -18,7 +18,7 @@ const TechnologyStackCardComponent = () => {
             <SectionTitle>What Is Crafterstudio’s Technology Stack ?</SectionTitle>
             <StackList>
                 <Item>
-                    <FirstCircle/><BoldText>Php</BoldText>, as a framework <BoldText>Laravel</BoldText> to back end.
+                    <FirstCircle/><BoldText>Php</BoldText>, as a framework <BoldText>Laravel</BoldText> to back end development.
                 </Item>
                 <Item>
                     <SecondCircle/><BoldText>React</BoldText> to front end development.
@@ -48,7 +48,7 @@ const TechnologyStackCardComponent = () => {
             </StackList>
             <StackList>
                 <Item>
-                    <FourthCircle/><BoldText>Sketch</BoldText>, <BoldText>Figma</BoldText>, <BoldText>Photosop</BoldText> to design frontend and mobile screens.
+                    <FourthCircle/><BoldText>Sketch</BoldText>, <BoldText>Figma</BoldText>, <BoldText>Photoshop</BoldText> to <BoldText>UI / UX</BoldText> design.
                 </Item>
             </StackList>
         </>
