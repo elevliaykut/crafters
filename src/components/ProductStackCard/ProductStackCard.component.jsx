@@ -10,7 +10,7 @@ import CustomLink from "../../components/CustomLink/CustomLink.component";
 const ProductStackCardComponent = () => {
     return(
         <>
-            <SectionDate>November 25, 2020</SectionDate>
+            <SectionDate>January 01, 2021</SectionDate>
             <SectionTitle>What Are The Products Mades So Far ?</SectionTitle>
             <StackList>
                 <Item>
