@@ -14,7 +14,7 @@ const ProductStackCardComponent = () => {
             <SectionTitle>What Are The Products Mades So Far ?</SectionTitle>
             <StackList>
                 <Item>
-                    <CustomEmoji label="meoji" emoji="😷"/><CustomLink targetUrl='https://trusting-bhaskara-8ee19a.netlify.app/'>COVID19</CustomLink>, a web app that helps you to follow increases, decrease, suggestions and filter as countries.
+                    <CustomEmoji label="emoji" emoji="😷"/><CustomLink targetUrl='https://trusting-bhaskara-8ee19a.netlify.app/'>COVID19</CustomLink>, a web app that helps you to follow increases, decrease, suggestions and filter as countries.
                 </Item>
             </StackList>
         </>

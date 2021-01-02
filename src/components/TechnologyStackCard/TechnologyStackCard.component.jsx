@@ -29,7 +29,7 @@ const TechnologyStackCardComponent = () => {
             </StackList>
             <StackList>
                 <Item>
-                    <ThirdCircle/><BoldText>Docker</BoldText> for containerization.
+                    <FirstCircle/><BoldText>Docker</BoldText> for containerization.
                 </Item>
                 <Item>
                     <FourthCircle/><BoldText>MySQL</BoldText> to choose database.
