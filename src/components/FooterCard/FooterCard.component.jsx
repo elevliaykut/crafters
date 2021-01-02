@@ -9,11 +9,11 @@ import {
     SocialSection,
     Item,
     Social
-} from "./../FooterCard/FooterCard.styles";
-import Instagram from "./../../images/social-icons/instagram.svg";
-import Medium from "./../../images/social-icons/medium.svg";
-import Twitter from "./../../images/social-icons/twitter.svg";
-import Github from "./../../images/social-icons/github.svg";
+} from '../FooterCard/FooterCard.styles';
+import Instagram from "../../images/social-icons/instagram.svg";
+import Medium from "../../images/social-icons/medium.svg";
+import Twitter from "../../images/social-icons/twitter.svg";
+import Github from "../../images/social-icons/github.svg";
 
 const Footer = () => {
     return(

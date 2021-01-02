@@ -10,7 +10,7 @@ import {
     SubText,
     TopSection,
     LanguageSection
-} from "./../HeaderCard/HeaderCard.styles";
+} from "../HeaderCard/HeaderCard.styles";
 
 const Header = () => {
     return (

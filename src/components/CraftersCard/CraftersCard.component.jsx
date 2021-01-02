@@ -3,16 +3,16 @@ import {
     SectionTitle,
     SectionDate,
     Description
-} from './../SectionCard/SectionCard.styles';
+} from '../SectionCard/SectionCard.styles';
 import {
     MainContainer,
     DescriptionContainer,
     ImageContainer,
     CrafterName,
     CrafterTitle
-} from './../CraftersCard/CraftersCard.styles';
+} from '../CraftersCard/CraftersCard.styles';
 
-import PP from './../../images/pp.png';
+import PP from '../../images/pp.png';
 
 const CraftersCardComponent = () => {
     return(

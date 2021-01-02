@@ -4,9 +4,9 @@ import {
     SectionDate,
     StackList,
     Item
-} from "./../SectionCard/SectionCard.styles";
-import CustomEmoji from "./../CustomEmoji/CustomEmoji";
-import CustomLink from "./../CustomLink/CustomLink.component";
+} from "../../components/SectionCard/SectionCard.styles";
+import CustomEmoji from "../../components/CustomEmoji/CustomEmoji";
+import CustomLink from "../../components/CustomLink/CustomLink.component";
 const ProductStackCardComponent = () => {
     return(
         <>

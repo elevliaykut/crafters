@@ -9,7 +9,7 @@ import {
     ThirdCircle,
     FourthCircle,
     BoldText
-} from "./../SectionCard/SectionCard.styles";
+} from "../../components/SectionCard/SectionCard.styles";
 
 const TechnologyStackCardComponent = () => {
     return(
