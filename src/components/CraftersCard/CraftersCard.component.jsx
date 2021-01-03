@@ -4,6 +4,7 @@ import {
     SectionDate,
     Description,
     DescriptionLine,
+    CountSection,
     Count
 } from '../SectionCard/SectionCard.styles';
 import {
@@ -14,7 +15,6 @@ import {
     CrafterTitle
 } from '../CraftersCard/CraftersCard.styles';
 import PP from '../../images/pp.png';
-import { CountSection } from "../SectionCard/SectionCard.styles";
 
 const CraftersCardComponent = () => {
     return(
