@@ -157,7 +157,14 @@ export const DescriptionLine = styled.div`
 `
 
 export const CountSection = styled.div`
+   margin-top: -20px;
+   margin-left: 10px;
+   width: 20px;
+   height: 20px;
+`
+
+export const Count = styled.span`
    font-size: 15px;
    padding: 0px 10px;
-   margin-top: -10px;
+   background-color: #FFCB77;
 `

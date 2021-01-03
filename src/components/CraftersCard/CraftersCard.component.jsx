@@ -3,7 +3,8 @@ import {
     SectionTitle,
     SectionDate,
     Description,
-    DescriptionLine
+    DescriptionLine,
+    Count
 } from '../SectionCard/SectionCard.styles';
 import {
     MainContainer,
@@ -19,7 +20,7 @@ const CraftersCardComponent = () => {
     return(
         <>
             <SectionDate>January 01, 2021</SectionDate>
-            <SectionTitle>Who Are The Crafters ?<CountSection>10</CountSection></SectionTitle>
+            <SectionTitle>Who Are The Crafters ?<CountSection><Count>1</Count></CountSection></SectionTitle>
             <MainContainer>
                 <DescriptionContainer>
                     <Description>
