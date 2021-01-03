@@ -13,12 +13,13 @@ import {
     CrafterTitle
 } from '../CraftersCard/CraftersCard.styles';
 import PP from '../../images/pp.png';
+import { CountSection } from "../SectionCard/SectionCard.styles";
 
 const CraftersCardComponent = () => {
     return(
         <>
             <SectionDate>January 01, 2021</SectionDate>
-            <SectionTitle>Who Are The Crafters ?</SectionTitle>
+            <SectionTitle>Who Are The Crafters ?<CountSection>10</CountSection></SectionTitle>
             <MainContainer>
                 <DescriptionContainer>
                     <Description>

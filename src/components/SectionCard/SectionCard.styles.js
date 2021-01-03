@@ -5,6 +5,7 @@ export const SectionDate = styled.div`
     color: #9A9A9A;
 `
 export const SectionTitle = styled.div`
+    display: flex;
     font-weight: bold;
     font-size: 24px;
     margin-bottom: 20px;
@@ -153,4 +154,10 @@ export const BoldText = styled.span`
 export const DescriptionLine = styled.div`
    font-size: 18px;
    line-height: 2em;    
+`
+
+export const CountSection = styled.div`
+   font-size: 15px;
+   padding: 0px 10px;
+   margin-top: -10px;
 `
