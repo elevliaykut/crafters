@@ -10,6 +10,7 @@ import {
     Item,
     Social
 } from '../FooterCard/FooterCard.styles';
+import CustomIcon from "../customIcon/customIcon.component";
 import Instagram from "../../images/social-icons/instagram.svg";
 import Medium from "../../images/social-icons/medium.svg";
 import Twitter from "../../images/social-icons/twitter.svg";
@@ -29,16 +30,32 @@ const Footer = () => {
                 <SocialSection>
                     <Social>
                         <Item>
-                            <img src={Instagram} alt="instagram"/>
+                            <CustomIcon
+                                targetUrl='#'
+                                imageSource={Instagram}
+                                altDescription='Instagram'
+                            />
                         </Item>
                         <Item>
-                            <img src={Medium} alt="medium"/>
+                            <CustomIcon
+                                targetUrl='#'
+                                imageSource={Medium}
+                                altDescription='Medium'
+                            />
                         </Item>
                         <Item>
-                            <img src={Twitter} alt="twitter"/>
+                            <CustomIcon
+                                targetUrl='#'
+                                imageSource={Twitter}
+                                altDescription='Twitter'
+                            />
                         </Item>
                         <Item>
-                            <img src={Github} alt="github"/>
+                            <CustomIcon
+                                targetUrl='https://github.com/CRAFTERSTUDIO'
+                                imageSource={Github}
+                                altDescription='Github'
+                            />
                         </Item>
                     </Social>
                 </SocialSection>
