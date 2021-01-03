@@ -12,7 +12,6 @@ import {
     CrafterName,
     CrafterTitle
 } from '../CraftersCard/CraftersCard.styles';
-
 import PP from '../../images/pp.png';
 
 const CraftersCardComponent = () => {

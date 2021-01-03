@@ -9,7 +9,8 @@ import {
     SubDescription,
     SubText,
     TopSection,
-    LanguageSection
+    LanguageSection,
+    BoldText
 } from "../HeaderCard/HeaderCard.styles";
 
 const Header = () => {
@@ -20,7 +21,9 @@ const Header = () => {
                     <BoldLogoText>CRAFTERS</BoldLogoText>
                     <NormalLogoText>TUDIO</NormalLogoText>
                 </LogoSection>
-                <LanguageSection></LanguageSection>
+                <LanguageSection>
+                    <BoldText>/en.</BoldText>
+                </LanguageSection>
             </TopSection>
             <Description>
                 <HeaderText>Crafterstudio is a software product market. It focuses on the development of products</HeaderText>
