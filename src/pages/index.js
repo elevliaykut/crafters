@@ -8,10 +8,14 @@ import TechnologyStackCardComponent from './../components/TechnologyStackCard/Te
 import CraftersCardComponent from './../components/CraftersCard/CraftersCard.component';
 import ProductStackCardComponent from './../components/ProductStackCard/ProductStackCard.component';
 import Footer from './../components/FooterCard/FooterCard.component';
+import { Helmet } from "react-helmet";
 
 export default () => {
     return (
         <>
+            <Helmet>
+                <title>CRAFTER | STUDIO</title>
+            </Helmet>
             <HeaderLayout>
                 <Header/>
             </HeaderLayout>

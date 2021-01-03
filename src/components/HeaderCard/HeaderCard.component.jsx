@@ -12,7 +12,6 @@ import {
     LanguageSection,
     BoldText
 } from "../HeaderCard/HeaderCard.styles";
-
 const Header = () => {
     return (
         <MainContainer>
