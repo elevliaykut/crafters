@@ -2,4 +2,4 @@
 
     This is website of Crafterstudio.
     
-    - go here.. -> https://crafterstudio.co
+    - go here... -> https://crafterstudio.co
