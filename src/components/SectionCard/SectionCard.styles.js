@@ -166,5 +166,5 @@ export const CountSection = styled.div`
 export const Count = styled.span`
    font-size: 15px;
    padding: 0px 10px;
-   background-color: #FFCB77;
+   background-color: #FEF9EF;
 `
