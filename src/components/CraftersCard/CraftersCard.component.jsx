@@ -37,8 +37,7 @@ const CraftersCardComponent = () => {
                 <ImageContainer>
                     <img src={PP} alt="profile"/>
                     <CrafterName>Aykut ELEVLİ</CrafterName>
-                    <CrafterTitle>Full Stack Developer @ KAMION</CrafterTitle>
-                    <CrafterTitle>Crafter @ CRAFTERSTUDIO</CrafterTitle>
+                    <CrafterTitle>Software Engineer @ KAMION</CrafterTitle>
                 </ImageContainer>
             </MainContainer>
         </>
